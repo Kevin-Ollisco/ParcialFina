@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARCONAID2",
+			"Path": "D:\\Documents\\ARCONAID2\\Source\\ARCONAID2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARCONAID2Editor",
+			"Path": "D:\\Documents\\ARCONAID2\\Source\\ARCONAID2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
